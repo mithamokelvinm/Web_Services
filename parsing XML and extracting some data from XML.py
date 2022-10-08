@@ -2,8 +2,8 @@ import xml.etree.ElementTree as ET
 
 data = '''
 <person>
-    <name>Georgina<name/>
-    <phone type = "intl"> +254724675689 <phone/>
+    <name>Olive<name/>
+    <phone type = "intl"> +254722-123-456 <phone/>
     <email hide = "yes"/>
 <person/>
 '''
